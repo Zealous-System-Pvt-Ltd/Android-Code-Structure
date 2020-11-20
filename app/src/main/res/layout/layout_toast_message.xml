@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.app.code_structure.utils.widgets.OkTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lbl_toast"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/toast_success_background"
+    android:drawablePadding="@dimen/_10sdp"
+    android:gravity="center"
+    android:padding="@dimen/_10sdp"
+    android:text="Event at Germany"
+    android:layout_margin="@dimen/_10sdp"
+    android:textSize="@dimen/_11ssp" />
+
